@@ -109,5 +109,5 @@ Para mejorar la conversión de HTML, asegúrate de que el contenido HTML esté b
 - - @mui/icons-material
 - - react-toastify
 
-###  DLicencia
+###  Licencia
 Este proyecto está bajo la licencia MIT. Consulta el archivo LICENSE para obtener más detalles.
